@@ -1,7 +1,7 @@
 <h1 align="center">Hello <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/praying.gif" width=100 style="border-radius:25px"> Namaste </h1>
 
 
-I'm Akhil and  **Applied Data Scientist** who doesn't care about doomsday 💥 by Terminator 🤖. Have been helping people in solving their problems through Machine Learning and Deep Learning.
+I'm Akhil, a **Applied Data Scientist** who doesn't care about doomsday 💥 by AI Robots 🤖. Have been helping people in solving their problems through Machine Learning and Deep Learning.
 <br>
 
 ## Languages and Tools
