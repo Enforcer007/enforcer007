@@ -31,13 +31,14 @@ I'm Akhil, a **Applied Data Scientist** who doesn't care about doomsday 💥 by 
 <img height=30 src="https://miro.medium.com/max/1400/1*QxfkTc6W2v2jpQBo-HBw0g.jpeg">
 </span>
 
-
-
 ## ✍ Blog & Writing
 I also put my thoughts and collate my learnings, experiences in a blog [ML Bytes](https://akhil.profitalgo.tech/).
 
+## Latest Tweet
 ## 📫 How to reach me
-I'm always active on Twitter <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height=20> Ping me by just waving 👋 or 🙏 on [@143akhi](https://twitter.com/143akhi)
+I'm always active on Twitter <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height=20> Ping me by just waving 👋 or 🙏 
+<p align="left"> <a href="https://twitter.com/143akhi" target="blank"><img src="https://img.shields.io/twitter/follow/143akhi?logo=twitter&style=for-the-badge" alt="143akhi" /></a> </p>
+
 
 ## 📈 Activity Graph
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=enforcer007)](https://github.com/ashutosh00710/github-readme-activity-graph)
