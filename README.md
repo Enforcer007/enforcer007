@@ -19,3 +19,6 @@ I also put my thoughts and collate my learnings, experiences in a blog [ML Bytes
 
 ## 📫 How to reach me
 I'm always active on Twitter <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height=20> Ping me by just waving 👋 or 🙏 on [@143akhi](https://twitter.com/143akhi)
+
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=enforcer007)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
