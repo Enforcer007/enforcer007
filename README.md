@@ -6,8 +6,10 @@ I'm Akhil and  **Applied Data Scientist** who doesn't care about doomsday 💥 b
 
 ## Languages and Tools
 ### <ins>Languages</ins>
+<span>
 <img height=30 src="https://www.python.org/static/community_logos/python-logo.png">
 <img height=30 src="https://i.imgur.com/tDqlcVa.png">
+</span>
 
 ### <ins>Machine Learning and Deep Learning</ins>
 <span>
