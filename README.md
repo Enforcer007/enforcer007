@@ -34,7 +34,7 @@ I'm Akhil, a **Applied Data Scientist** who doesn't care about doomsday 💥 by 
 ## ✍ Blog & Writing
 I also put my thoughts and collate my learnings, experiences in a blog [ML Bytes](https://akhil.profitalgo.tech/).
 
-## Latest Tweet
+## Latest Tweets
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=143akhi&layout=wide&show_reply=off&show_border=on)](https://twitter.com/143akhi)
 
 ## 📫 How to reach me
