@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hello <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/praying.gif" width=100 style="border-radius:25px"> Namaste </h1>
 
-<!--
-**Enforcer007/enforcer007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Akhil and  **Applied Data Scientist** who doesn't care about doomsday 💥 by Terminator 🤖. Have been helping people in solving their problems through Machine Learning and Deep Learning.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+<br>
+
+<img height=20 src="https://www.python.org/static/community_logos/python-logo.png">
+<img height=20 src="https://i.imgur.com/iTBCEbl.png">
+<img height=20 src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png">
+<img height=20 src="https://i.imgur.com/rT36Lgc.png">
+<br>
+<br>
+
+## ✍ Blog & Writing
+I also put my thoughts and collate my learnings, experiences in a blog [ML Bytes](https://akhil.profitalgo.tech/).
+
+## 📫 How to reach me
+I'm always active on Twitter <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height=20> Ping me by just waving 👋 or 🙏 on [@143akhi](https://twitter.com/143akhi)
