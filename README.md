@@ -42,7 +42,3 @@ I also put my thoughts and collate my learnings, experiences in a blog
 I'm always active on Twitter <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height=20> Ping me by just waving 👋 or 🙏 
 <p align="left"> <a href="https://twitter.com/143akhi" target="blank"><img src="https://img.shields.io/twitter/follow/143akhi?logo=twitter&style=for-the-badge" alt="143akhi" /></a> </p>
 
-
-## 📈 Activity Graph
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=enforcer007)](https://github.com/Enforcer007)
-
